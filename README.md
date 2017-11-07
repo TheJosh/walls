@@ -1,16 +1,19 @@
-These are some 3D walls, for modular house construction.
+3D Walls
+========
 
-The base model is 2.4m tall (standard height) by 1m wide and 10cm thick (also standard height).
+These are some 3D walls, for modular house construction. There seems to be a lack of this kind
+of thing around, especially not any sort of free version. Creating cubes is a good start, but
+you typically need correct UVs to be able to actually use the models, and it starts to get messy
+when getting more complicated like windows, doors, corners, and having different materials on the
+outside and the inside.
+
+The base model is 2.4m tall (standard house height) by 1m wide and 10cm thick (also standard).
 
 Model origin is the center-bottom; this is the unity standard but would obviously work in other
 cases too.
 
 UV mapping is a repeated pattern, where the source image should represent a 1m by 1m area. Mapping
 starts at the bottom of the wall.
-
-There are a number of variations available, to meet various needs
-
-Various additional versions are available.
 
 
 Variations
